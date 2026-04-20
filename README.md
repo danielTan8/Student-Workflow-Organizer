@@ -42,10 +42,6 @@ A website designed to help academics and students organize their work, projects 
 
 6. Track your progress on each assignment or project.
 
-### Attention ⚠
-
-This website is for educational purposes only. Do not submit other students' work as your own.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
